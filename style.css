@@ -1,5 +1,6 @@
 @media screen {
 
+<<<<<<< HEAD
 }
 
 
@@ -32,4 +33,6 @@ figure img{
     width: 100%; /* Ensure the image fills the parent box horizontally */
     height: 14rem; /* Ensure the image fills the parent box vertically */
     object-fit: cover;
+=======
+>>>>>>> a49dc51ad824500a96af84df07befac76ae4842c
 }
