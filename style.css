@@ -206,6 +206,17 @@ a:hover{
         position: relative; /* Change position to relative */
     }
 
+    #welcome-section {
+        height: 50vh;
+        margin-bottom: 0;
+        position: relative;
+    }
+
+    .profile{
+        position: absolute;
+        margin-bottom: 0;
+    }
+
     .project-tile {
         display: flex;
         flex-wrap: wrap;
